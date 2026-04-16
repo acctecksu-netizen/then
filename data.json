@@ -1,5 +1,16 @@
 {
-  "courses": [],
+  "courses": [
+    {
+      "id": "c1776365287523",
+      "cat": "acc",
+      "catName": "محاسبة مالية",
+      "icon": "📚",
+      "title": "حسب ٢٠١",
+      "desc": "",
+      "thumb": "th-acc",
+      "chapters": []
+    }
+  ],
   "quizzes": [
     {
       "id": "q2",
